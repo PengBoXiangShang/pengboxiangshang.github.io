@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve as CAAI Artificial Intelligence Research Area Editor (2024-2026). 
+Invited to serve as CAAI Artificial Intelligence Research Area Editor. 
