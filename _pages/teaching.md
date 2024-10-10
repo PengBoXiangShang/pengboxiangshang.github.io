@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# At Tsinghua University
+- Advanced Machine Learning, 2024 spring
+- Advanced Computer Vision, 2024 spring
+- Large Models for Complex Long-Text Understanding (Student Research Training), 2023 fall, 2024 spring
+- Multimodal Large Models for Domain-Specific Document Understanding and Generation (Student Research Training), 2023 fall, 2024 spring
 
-Organize your courses by years, topics, or universities, however you like!
+# At Queen Mary University of London
+- Machine Learning for Visual Data Analysis, 2018 spring
