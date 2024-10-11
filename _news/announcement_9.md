@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are organizing ["The 1st Workshop on Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/) @CVPR 2021.
+We are organizing ["The 1st Workshop on Sketch-Oriented Deep Learning (SketchDL)"](https://sketchdl.github.io/2021.html) @CVPR 2021.
