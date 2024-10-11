@@ -42,10 +42,10 @@ layout: default
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social" style="float:left">
-        <div class="contact-icons">{% include social.liquid %}</div>
+      <div class="social">
+        <div class="contact-icons" style="float:left">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-note" style="float:left">{{ site.contact_note }}</div>
       </div>
     {% endif %}
 
