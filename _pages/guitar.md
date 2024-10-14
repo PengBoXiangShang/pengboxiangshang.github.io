@@ -14,7 +14,7 @@ nav_order: 7
 </div>
 
 <div align="center">
-<img src="https://pengboxiangshang.github.io/assets/img/guitar1.jpg" width="80%">
+<img src="https://pengboxiangshang.github.io/assets/img/guitar3.jpg" width="80%">
 </div>
 
 <div align="center">
