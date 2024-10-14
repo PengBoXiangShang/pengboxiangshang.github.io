@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Guitar solo](https://pengboxiangshang.github.io/guitar/) at New Year party of THU EE.
+[Guitar solo](https://pengboxiangshang.github.io/guitar/) at New Year party of THU EE. :fire: :clap: :tada: :guitar: :boom: :beer: :musical_note:
