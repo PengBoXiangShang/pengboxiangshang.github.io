@@ -22,7 +22,7 @@ I'm a lecturer/research assistant professor in the Department of Electronic Engi
 My research is based on deep learning, focusing on multimodal learning, large model theory & application, computer vision, data science, *etc*.
 <br>
 
-<a href="https://scholar.google.com/citations?user=9_v4tC0AAAAJ" target="_blank" style="margin-right: 15px"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=9_v4tC0AAAAJ" target="_blank" style="margin-right: 15px"><i class="ai ai-google-scholar ai-3x"></i> Google Scholar</a>
 <a href="https://github.com/PengBoXiangShang" target="_blank" style="margin-right: 15px"><i class="fa-brands fa-github"></i> Github</a>
 <a href="mailto:peng_xu@tsinghua.edu.cn" style="margin-right: 15px"><i class="fa-regular fa-envelope"></i> Email</a>
 <a href="https://ieeexplore.ieee.org/author/37086048154" style="margin-right: 15px"><i class="ai ai-ieee"></i> IEEE</a>
