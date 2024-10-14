@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sunflower: One ESI hotspot (Top 0.1%) paper ranks 2nd in the [official rankings of Popular Articles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) of TPAMI.
+:fire: One ESI hotspot (Top 0.1%) paper ranks 2nd in the [official rankings of Popular Articles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) of TPAMI.
